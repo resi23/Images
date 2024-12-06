@@ -21,11 +21,11 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-package com.andavin.images.v1_21_R2;
+package com.andavin.images.v1_21_R3;
 
 import net.minecraft.network.chat.Component;
 import net.minecraft.network.protocol.game.ClientboundSetActionBarTextPacket;
-import org.bukkit.craftbukkit.v1_21_R2.entity.CraftPlayer;
+import org.bukkit.craftbukkit.v1_21_R3.entity.CraftPlayer;
 import org.bukkit.entity.Player;
 
 /**
